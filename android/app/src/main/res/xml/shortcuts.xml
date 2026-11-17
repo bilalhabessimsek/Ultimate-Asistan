@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shortcuts xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Uygulama simgesine uzun basınca çıkan "Hızlı not" kısayolu.
+         ultimate://notes/add adresini açarak doğrudan yeni not ekranına gider. -->
+    <shortcut
+        android:enabled="true"
+        android:icon="@mipmap/ic_launcher"
+        android:shortcutId="quick_note"
+        android:shortcutLongLabel="@string/quick_note_shortcut_long"
+        android:shortcutShortLabel="@string/quick_note_shortcut_short">
+        <intent
+            android:action="android.intent.action.VIEW"
+            android:data="ultimate://notes/add" />
+    </shortcut>
+</shortcuts>

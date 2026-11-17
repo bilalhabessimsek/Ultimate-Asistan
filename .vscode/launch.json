@@ -1,0 +1,28 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "ultimate_mobile (A55 - kablosuz)",
+      "request": "launch",
+      "type": "dart",
+      "deviceId": "192.168.1.100:38847"
+    },
+    {
+      "name": "ultimate_mobile (Debug)",
+      "request": "launch",
+      "type": "dart"
+    },
+    {
+      "name": "ultimate_mobile (Profile)",
+      "request": "launch",
+      "type": "dart",
+      "flutterMode": "profile"
+    },
+    {
+      "name": "ultimate_mobile (Release)",
+      "request": "launch",
+      "type": "dart",
+      "flutterMode": "release"
+    }
+  ]
+}

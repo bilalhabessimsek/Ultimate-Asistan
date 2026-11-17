@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="calendar_widget_description">Bugünkü takvim etkinliklerini gösterir</string>
+    <string name="quick_note_shortcut_short">Hızlı not</string>
+    <string name="quick_note_shortcut_long">Hızlı not al</string>
+</resources>
