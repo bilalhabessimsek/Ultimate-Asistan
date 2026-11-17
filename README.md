@@ -13,12 +13,3 @@ ULTIMATE ekosisteminin Flutter tabanlı mobil uygulaması. Notlar, takvim, müzi
 ## Teknoloji
 
 Flutter / Dart, Kotlin (Android native katmanı), Supabase Flutter, shared_preferences, just_audio, connectivity_plus.
-
-## Çalıştırma
-
-```bash
-flutter pub get
-flutter run
-```
-
-Android için `android/app/src/main/kotlin/com/bilalhabessimsek/ultimate_mobile/UltimateApplication.kt` native giriş noktasıdır.
